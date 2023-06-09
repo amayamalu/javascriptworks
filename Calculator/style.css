@@ -1,0 +1,42 @@
+.button
+{  
+  width:50;
+  height:50;
+  font-size:25;
+  margin:2;
+  cursor:pointer;
+  /* background:#607d8b; */
+  background: black;
+  border:none;
+  color:white;
+}
+.textview
+{
+  width:225;
+  margin:5;
+  font-size:25;
+  padding:5;
+  border:none;
+  color:#607d8b;
+}
+.main
+{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translateX(-50%)translateY(-50%) 
+}
+.bg
+{ 
+  /* background:linear-gradient(to right,#e91e63,#3151b5); */
+  background: rgb(175, 56, 161);
+  height:100%;
+
+}
+h1
+{
+ position:absolute;
+ top:10%;
+ left:42%;
+ font-size:30;
+}
